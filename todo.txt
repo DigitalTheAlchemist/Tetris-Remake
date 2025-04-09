@@ -1,0 +1,5 @@
+7 tetris pieces gameboard is 10 blocks in width and 20 in height
+Pieces are chosen randomly and queued up Each piece can be rotated and moved left or right
+a constant variable changes the fall speed per level
+you can hold 1 piece at a time and swap it a piece can be fast dropped and instant dropped
+pieces can stack on top of each other when a full line is filled, it is cleared and any blocks above the line are moved down 1 block
